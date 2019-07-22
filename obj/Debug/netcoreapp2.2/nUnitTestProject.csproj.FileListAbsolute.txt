@@ -1,0 +1,14 @@
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nUnitTestProject.deps.json
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nUnitTestProject.runtimeconfig.json
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nUnitTestProject.runtimeconfig.dev.json
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nUnitTestProject.dll
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\bin\Debug\netcoreapp2.2\nUnitTestProject.pdb
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.csprojAssemblyReference.cache
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.csproj.CoreCompileInputs.cache
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.AssemblyInfoInputs.cache
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.AssemblyInfo.cs
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.dll
+c:\Desenvolvimento\WorkspaceParaCenariosDeTeste\nUnitTestProject\obj\Debug\netcoreapp2.2\nUnitTestProject.pdb
