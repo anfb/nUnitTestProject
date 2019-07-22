@@ -20,9 +20,10 @@ namespace Tests
             var driver = new ChromeDriver();
 
             driver.Navigate().GoToUrl("https://www.trivago.com.br");
-            driver.FindElement(By.XPath("//span[contains(text(),'Criar conta')]")).Click();
-
             Thread.Sleep(2000);
+            driver.FindElement(By.XPath("//span[contains(text(),'Fazer login')]")).Click();
+
+            
 
             driver.Close();
         }
